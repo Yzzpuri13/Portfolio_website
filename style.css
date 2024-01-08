@@ -148,10 +148,11 @@ a:hover{
 
 /* SECTIONS */
 
-section{
+section {
     padding-top: 4vh;
-    height: 96vh;
-    margin: 0 10rem;
+    margin: 0 auto; /* This centers the sections horizontally */
+    width: 80%; /* Adjust the width as needed */
+    max-width: 1200px; /* Set a maximum width if required */
     box-sizing: border-box;
     min-height: fit-content;
 }
@@ -174,6 +175,7 @@ section{
     height: 400px;
     width: 400px;
     margin: auto 0;
+    
 }
 .section_text{
     align-self: center;
@@ -424,3 +426,5 @@ footer{
 footer p{
     text-align: center;
 }
+
+

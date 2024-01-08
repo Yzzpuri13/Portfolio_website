@@ -4,3 +4,7 @@ function toggleMenu(){
     menu.classList.toggle("open")
     icon.classList.toggle("open")
 }
+
+document.getElementById('arrowToProjects').addEventListener('click', function() {
+    document.getElementById('project').scrollIntoView({ behavior: 'smooth' });
+});
