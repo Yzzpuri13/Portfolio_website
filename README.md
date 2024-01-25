@@ -12,7 +12,7 @@ You can view the live version of the portfolio at [www.yeshupuri.com](http://www
 
 ## Hosting
 
-This portfolio website is proudly hosted on [Netlify](https://www.netlify.com/), a cloud-based hosting service that provides continuous deployment from public or private Git repositories. This choice reflects a commitment to reliability and high performance.
+This portfolio website is proudly hosted on [Netlify](https://www.netlify.com/), a cloud-based hosting service that provides continuous deployment from public or private Git repositories. Netlify offers reliability and high performance.
 
 
 ## Features
