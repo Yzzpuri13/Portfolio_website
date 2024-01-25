@@ -336,11 +336,12 @@ section {
 .article-container {
   display: flex;
   text-align: initial;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* This allows items to wrap, ensure there's enough space for all items */
   flex-direction: row;
   gap: 2.5rem;
-  justify-content: space-around;
+  justify-content: space-around; /* This spreads out the items evenly. You can also try 'flex-start' for left alignment or 'center' for center alignment */
 }
+
 
 article {
   display: flex;
